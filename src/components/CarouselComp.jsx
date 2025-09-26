@@ -40,7 +40,7 @@ const SimpleCarousel = () => {
         alt="slider"
         style={{
           width: "100%",
-          height: "550px",
+          height: "400px",
           objectFit: "contain", // full image fits
           backgroundColor: "#fff", // white background behind image
         }}
