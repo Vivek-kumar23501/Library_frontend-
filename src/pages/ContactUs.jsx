@@ -8,7 +8,7 @@ const ContactUs = () => {
     subtitle: "We’re here to help you",
     description:
       "Have questions or suggestions about the library? Fill out the contact form and our team will respond promptly.",
-    link: "https://forms.gle/your-contact-form-link", // Replace with your Google Form link
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdaJfEbpZ9CPOnlwKGOGbh7K_T0pDqnXwIpo2JTb6j6IEXssw/viewform?usp=header", // Replace with your Google Form link
     buttonText: "Open Contact Form",
   };
 

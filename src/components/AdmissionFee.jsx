@@ -9,7 +9,7 @@ const AdmissionFee = () => {
       subtitle: "Complete your library admission easily",
       description:
         "Fill the admission form, submit required documents, and get your library membership activated quickly.",
-      link: "https://forms.gle/your-admission-form-link", // Replace with your actual link
+      link: "https://docs.google.com/forms/d/e/1FAIpQLSexzoOiyqhaBix39nyhufzSgxY55vPG9b5l7LPflhEu0jmM1w/viewform?usp=header", // Replace with your actual link
       buttonText: "Apply Now",
     },
     {
@@ -17,7 +17,7 @@ const AdmissionFee = () => {
       subtitle: "Pay library fees safely online",
       description:
         "Check the fee structure, make online payments securely, and download your receipt instantly.",
-      link: "https://forms.gle/your-fee-payment-form-link", // Replace with your actual link
+      link: "https://docs.google.com/forms/d/e/1FAIpQLSfqD5yVBmZjNrNWyvX1FynLvOMJ0Ef-gCyV42Eu-YRoY5f0vA/viewform?usp=headerhttps://docs.google.com/forms/d/e/1FAIpQLSfqD5yVBmZjNrNWyvX1FynLvOMJ0Ef-gCyV42Eu-YRoY5f0vA/viewform?usp=header", // Replace with your actual link
       buttonText: "Pay Fees",
     },
   ];
