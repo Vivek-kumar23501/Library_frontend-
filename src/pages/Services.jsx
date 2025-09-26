@@ -15,27 +15,23 @@ const services = [
   {
     title: "Newspapers & Magazines",
     description: "Stay updated with daily news and monthly magazines.",
-    bg: "/magazine.jpg",
+    bg: "/newspaper.jpg",
   },
-  {
-    title: "Separate Rooms",
-    description: "Dedicated rooms for boys and girls.",
-    bg: "/separate-room.jpg",
-  },
+ 
   {
     title: "AC Cabin Rooms",
     description: "Comfortable air-conditioned study cabins.",
-    bg: "/ac-cabin.jpg",
+    bg: "/ac.jpg",
   },
   {
     title: "RO Water",
     description: "Clean and safe drinking water available for all.",
-    bg: "/ro-water.jpg",
+    bg: "/ro.jpg",
   },
   {
     title: "Electricity",
     description: "24/7 power supply for uninterrupted study.",
-    bg: "/electricity.jpg",
+    bg: "/image7.jpg",
   },
 ];
 
